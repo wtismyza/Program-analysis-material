@@ -4,8 +4,8 @@ _(draft; work in progress)_
 
 See also:
 
-- [Compilers](https://raw.githubusercontent.com/MattPD/cpplinks/master/compilers.md)
-  - [correctness](https://raw.githubusercontent.com/MattPD/cpplinks/master/compilers.correctness.md)
+- [Compilers](https://github.com/MattPD/cpplinks/blob/master/compilers.md)
+  - [correctness](https://github.com/MattPD/cpplinks/blob/master/compilers.correctness.md)
 
 ## General
 
