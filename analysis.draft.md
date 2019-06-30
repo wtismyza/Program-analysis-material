@@ -169,6 +169,10 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- Example: plugging Triton on top of QBDI - http://shell-storm.org/repo/Notepad/qbdi_with_triton.txt
 	- A Preliminary Test of QBDI - https://www.johnfxgalea.com/2018/01/13/a-preliminary-test-of-qbdi/
 	- Example: SRAC - a Simple Return Address Checker - https://github.com/johnfxgalea/SRAC
+- Quarkslab blog
+	- https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html
+	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm-the-return.html
+	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm.html
 - Remill:  Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
 	- https://github.com/trailofbits/remill
 - Writing a basic clang static analysis check
