@@ -293,8 +293,14 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
 - https://siek.blogspot.com/2013/05/type-safety-in-three-easy-lemmas.html
 - What is soundness (in static analysis)? - http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/
-- OPLSS (Oregon Programming Languages Summer School) - https://cs.uoregon.edu/research/summerschool/
+- OPLSS (Oregon Programming Languages Summer School)
+	- https://cs.uoregon.edu/research/summerschool/
+	- 2018-2017, 2003: https://www.youtube.com/channel/UCDe6N9R7U-RYWA57wzJQ2SQ/playlists
+	- 2016-2015: https://www.youtube.com/channel/UCsON_8vogp4nCQFTnfu43kA/playlists
 	- free video lectures available, including the introductory ones based on Practical Foundations for Programming Languages: http://www.cs.cmu.edu/~rwh/pfpl/
+- Programming Language Implementation Summer School (PLISS)
+	- https://pliss2019.github.io/talks.html
+	- https://www.youtube.com/channel/UCofC5zis7rPvXxWQRDnrTqA/playlists 
 - SSA book - http://ssabook.gforge.inria.fr/latest/
 - Intermediate Representations in Imperative Compilers: A Survey
 	- ACM Computing Surveys, Vol. 45, No. 3, Article 26, 2013
