@@ -47,6 +47,9 @@ See also:
 	- http://rightingcode.org/
 	- http://www.cis.upenn.edu/~mhnaik/edu/cis700/
 	- https://www.youtube.com/channel/UCvwqRhlkE_Wm2FF9qzvHfJw
+- Program Analysis and Reliability - Nick Sumner, CMPT 886, Spring 2015, SFU
+	- Playlist: https://www.youtube.com/playlist?list=PLNC6lmsIySCOPjY8IwKBtD2cqe-MMgIGM
+	- Schedule & Slides: http://www.cs.sfu.ca/~wsumner/teaching/886/15/schedule.html
 - Program analysis for reverse engineers: from T to ⊥
 	- BSides Canberra 2018; Adrian Herrera
 	- https://www.youtube.com/watch?v=vOmGmjbVff4
@@ -75,7 +78,7 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - LLVM Weekly - http://llvmweekly.org/
 - Security Research and Development with LLVM - Andrew Reiter
 	- https://github.com/roachspray/opcde2017
-	- https://github.com/comaeio/OPCDE/tree/master/Security%20Research%20and%20Development%20with%20LLVM%20-%20Andrew%20Reiter
+	- https://github.com/comaeio/OPCDE/tree/master/2017/Security%20Research%20and%20Development%20with%20LLVM%20-%20Andrew%20Reiter
 	- Examples - https://github.com/roachspray/opcde2017/tree/master/code
 - Building a Checker in 24 hours
 	- 2012 LLVM Developers’ Meeting; Anna Zaks, Jordan Rose
@@ -108,15 +111,15 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- slides: https://www.cs.sfu.ca/~wsumner/teaching/886/llvm.pdf
 	- llvm-demo: A simple example of how LLVM can be used to gather static or dynamic facts about a program.
 		- https://github.com/nsumner/llvm-demo
-	+ callgraph-profiler-template: A template for an introductory project on dynamic analysis using LLVM
+	- callgraph-profiler-template: A template for an introductory project on dynamic analysis using LLVM
 		- https://github.com/nsumner/callgraph-profiler-template
-	+ clang-plugins-demo: A simple example of defining custom plugins for Clang and the Clang Static Analyzer
+	- clang-plugins-demo: A simple example of defining custom plugins for Clang and the Clang Static Analyzer
 		- https://github.com/nsumner/clang-plugins-demo
-	+ llvm-dataflow-analysis: (very simple) static intraprocedural dataflow analyses
+	- llvm-dataflow-analysis: (very simple) static intraprocedural dataflow analyses
 		- https://github.com/nsumner/llvm-dataflow-analysis
-	+ overflower-template: Template for a project to teach basic static dataflow analysis using LLVM
+	- overflower-template: Template for a project to teach basic static dataflow analysis using LLVM
 		- https://github.com/nsumner/overflower-template
-	+ path-profiler-template: A template for a path profiling project using LLVM
+	- path-profiler-template: A template for a path profiling project using LLVM
 		- https://github.com/nsumner/path-profiler-template
 - KLEE Symbolic Virtual Machine
 	- http://klee.github.io/
