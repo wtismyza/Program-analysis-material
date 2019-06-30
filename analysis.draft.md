@@ -76,6 +76,7 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - awesome-llvm: A curated list of awesome LLVM related docs, tools, and other resources
 	- https://github.com/HongxuChen/awesome-llvm
 - LLVM Weekly - http://llvmweekly.org/
+- https://eli.thegreenplace.net/tag/llvm-clang
 - Security Research and Development with LLVM - Andrew Reiter
 	- https://github.com/roachspray/opcde2017
 	- https://github.com/comaeio/OPCDE/tree/master/2017/Security%20Research%20and%20Development%20with%20LLVM%20-%20Andrew%20Reiter
@@ -97,16 +98,38 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - clang-llvm-tutorial
 	- Clang and LLVM Tutorial Examples (AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend)
 	- https://github.com/lijiansong/clang-llvm-tutorial/
+- Creating an LLVM Sanitizer from Hopes and Dreams
+	- https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/
+	- llvm-sanitizer-tutorial and documentation
+		- https://github.com/trailofbits/llvm-sanitizer-tutorial
 - Custom Alias Analysis in LLVM
 	- https://blog.tartanllama.xyz/llvm-alias-analysis/
+- Dg: LLVM Static Slicer
+	- Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode
+	- https://github.com/mchalupa/dg
 - Faster, Stronger C++ Analysis with the Clang Static Analyzer
 	- 2018 LLVM Developers’ Meeting; George Karpenkov, Artem Dergachev
-	-  https://www.youtube.com/watch?v=4n3l-ZcDJNY
+	- https://www.youtube.com/watch?v=4n3l-ZcDJNY
+- FPSCEV: Floating-Point Scalar Evolution in LLVM
+	- https://github.com/sheredom/fpscev
+	- http://www.duskborn.com/posts/fpscev/
+	- http://www.duskborn.com/posts/fpscev-fast-math-propagation/
+	- http://www.duskborn.com/posts/fpscev-inst-simplify/
+	- http://www.duskborn.com/posts/fpscev-improved-range/
 - Introduction to LLVM: Building simple program analysis tools and instrumentation
 	- [FOSDEM 2018](https://fosdem.org/2018/schedule/track/llvm_toolchain/) - Mike Shah
 	- https://fosdem.org/2018/schedule/event/introduction/
 	- https://www.youtube.com/watch?v=VKIv_Bkp4pk
 	- slides & code: http://www.mshah.io/fosdem18.html
+- LLVM Debugging Tips and Tricks
+	- http://bholt.org/posts/llvm-debugging.html
+- LLVMPlayground: Small sample programs that use LLVM and Clang APIs.
+	- https://github.com/modocache/LLVMPlayground
+- Loom: LLVM instrumentation library
+	- https://github.com/cadets/loom
+- Mapping High Level Constructs to LLVM IR
+	- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir
+	- https://f0rki.gitbooks.io/mapping-high-level-constructs-to-llvm-ir/content/
 - [Nick Sumner](https://www.cs.sfu.ca/~wsumner/)'s Examples
 	- slides: https://www.cs.sfu.ca/~wsumner/teaching/886/llvm.pdf
 	- llvm-demo: A simple example of how LLVM can be used to gather static or dynamic facts about a program.
@@ -125,6 +148,11 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://klee.github.io/
 	- http://klee.github.io/publications/
 	- https://github.com/klee/klee
+- McSema: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
+	- https://www.trailofbits.com/research-and-development/mcsema/
+	- https://github.com/trailofbits/mcsema
+	- Decompiling Binaries into LLVM IR Using McSema and Dyninst
+		- https://is.muni.cz/th/pxe1j/?lang=en
 - Phasar - A LLVM-based static code analysis framework
 	- http://phasar.org/
 	- https://github.com/secure-software-engineering/phasar
@@ -134,6 +162,15 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- TACAS 2019
 		- Philipp D. Schubert, Ben Hermann, Eric Bodden
 		- http://www.thewhitespace.de/publications/shb19-phasar.pdf
+- QBDI (QuarkslaB Dynamic binary Instrumentation): A Dynamic Binary Instrumentation framework based on LLVM
+	- https://qbdi.quarkslab.com
+	- https://github.com/quarkslab/QBDI
+	- 34C3 (2017) Implementing an LLVM based Dynamic Binary Instrumentation framework: https://events.ccc.de/congress/2017/Fahrplan/events/9006.html
+	- Example: plugging Triton on top of QBDI - http://shell-storm.org/repo/Notepad/qbdi_with_triton.txt
+	- A Preliminary Test of QBDI - https://www.johnfxgalea.com/2018/01/13/a-preliminary-test-of-qbdi/
+	- Example: SRAC - a Simple Return Address Checker - https://github.com/johnfxgalea/SRAC
+- Remill:  Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
+	- https://github.com/trailofbits/remill
 - Writing a basic clang static analysis check
 	- https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html
 - SeaHorn Verification Framework: A fully automated analysis framework for LLVM-based languages
@@ -142,6 +179,8 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- A Context-Sensitive Memory Model for Verification of C/C++ Programs
 		- Slides: http://seahorn.github.io/papers/sas17_slides.pdf
 		- Paper: http://seahorn.github.io/papers/sea-dsa-SAS17.pdf
+	- Crab-llvm: Abstract Interpretation of LLVM bitcode
+		- https://github.com/seahorn/crab-llvm
 - SVF: Interprocedural Static Value-Flow Analysis in LLVM 
 	- Pointer Analysis and Program Dependence Analysis for C and C++ Programs
 	- http://unsw-corg.github.io/SVF/
@@ -152,6 +191,55 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- https://yuleisui.github.io/publications/cc16.pdf
 		- 2016 EuroLLVM Developers' Meeting: Y. Sui "SVF: Static Value-Flow Analysis in LLVM"
 		- https://www.youtube.com/watch?v=nD-i-enA8rc
+- LLVM IR Tutorial - Phis, GEPs and other things, oh my!
+	- 2019 EuroLLVM Developers’ Meeting; Vince Bridgers, Felipe de Azevedo Piovezan (Intel)
+	- https://www.youtube.com/watch?v=m8G_S5LwlTo
+- Intrinsics, Metadata, and Attributes: The story continues!
+	- 2016 LLVM Developers’ Meeting
+	- Hal Finkel, Argonne National Laboratory
+	- https://www.youtube.com/watch?v=jII0AcgU_5c
+
+#### Passes
+
+- Building, Testing and Debugging a Simple out-of-tree LLVM Pass
+	- 2016 EuroLLVM Developers' Meeting
+	- Serge Guelton & Adrien Guinet
+	- http://llvm.org/devmtg/2016-03/Tutorials/Tutorial.pdf
+	- https://github.com/quarkslab/llvm-dev-meeting-tutorial-2015
+	- https://blog.quarkslab.com/goto-llvm_dev_meeting.html
+	- https://www.youtube.com/watch?v=Z5KcwVaak3s
+
+##### Legacy Pass Manager
+
+- 2007 LLVM Developer's Meeting
+	- http://llvm.org/devmtg/2007-05/03-Patel-Passmanager.pdf
+	- LLVM Pass Manager Demystified (1 of 3) - https://www.youtube.com/watch?v=dZOrlikTaik
+	- LLVM Pass Manager Demystified (2 of 3) - https://www.youtube.com/watch?v=PaUWxVLGBg0
+	- LLVM Pass Manager Demystified (3 of 3) - https://www.youtube.com/watch?v=4HEy5EtVdCA
+
+##### New Pass Manager
+
+- New PM: taming a custom pipeline of Falcon JIT
+	- 2018 EuroLLVM Developers’ Meeting - Fedor Sergeev, Azul Systems
+	- https://www.youtube.com/watch?v=6X12D46sRFw
+	- http://llvm.org/devmtg/2018-04/slides/Sergeev-Taming%20a%20custom%20pipeline%20of%20Falcon%20JIT.pdf
+- The LLVM Pass Manager, Part 2
+	- 2014 LLVM Developers' Meeting
+	- Chandler Carruth, Google
+	- https://llvm.org/devmtg/2014-10/#talk11
+	- https://llvm.org/devmtg/2014-10/Slides/Carruth-TheLLVMPassManagerPart2.pdf
+	- Video: http://web.archive.org/web/20160718071630/http://llvm.org/devmtg/2014-10/Videos/The%20LLVM%20Pass%20Manager%20Part%202-720.mov
+- Passes in LLVM, Part 1
+	- 2014 European LLVM Conference
+	- Chandler Carruth
+	- https://www.youtube.com/watch?v=rY02LT08-J8
+	- https://llvm.org/devmtg/2014-04/PDFs/Talks/Passes.pdf
+- Writing LLVM Pass in 2018
+	- Preface - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-preface-6b90fa67ae82
+	- Part I: Write a new HelloWorld Pass in new pass manager fashion
+		- https://medium.com/@mshockwave/writing-llvm-pass-in-2018-preface-6b90fa67ae82
+	- Part II - AnalysisManager - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-ii-640f680978ec
+	- Part III - In-Tree Pass Integration - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-iii-d44cd0c2c354
 
 ## Readings
 
