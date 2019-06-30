@@ -148,11 +148,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://klee.github.io/
 	- http://klee.github.io/publications/
 	- https://github.com/klee/klee
-- McSema: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
-	- https://www.trailofbits.com/research-and-development/mcsema/
-	- https://github.com/trailofbits/mcsema
-	- Decompiling Binaries into LLVM IR Using McSema and Dyninst
-		- https://is.muni.cz/th/pxe1j/?lang=en
 - Phasar - A LLVM-based static code analysis framework
 	- http://phasar.org/
 	- https://github.com/secure-software-engineering/phasar
@@ -173,8 +168,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html
 	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm-the-return.html
 	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm.html
-- Remill:  Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
-	- https://github.com/trailofbits/remill
 - Writing a basic clang static analysis check
 	- https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html
 - SeaHorn Verification Framework: A fully automated analysis framework for LLVM-based languages
@@ -202,6 +195,33 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- 2016 LLVM Developers’ Meeting
 	- Hal Finkel, Argonne National Laboratory
 	- https://www.youtube.com/watch?v=jII0AcgU_5c
+
+#### Lifting
+
+Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
+
+- McSema: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
+	- https://www.trailofbits.com/research-and-development/mcsema/
+	- https://github.com/trailofbits/mcsema
+	- Decompiling Binaries into LLVM IR Using McSema and Dyninst
+		- https://is.muni.cz/th/pxe1j/?lang=en
+- llvm-mctoll
+	- This tool statically (AOT) translates (or raises) binaries to LLVM IR.
+	- https://github.com/Microsoft/llvm-mctoll
+	- Raising binaries to LLVM IR with MCTOLL
+		- LCTES 2019 (WIP paper)
+		- S. Bharadwaj Yadavalli, Aaron Smith
+		- https://dl.acm.org/citation.cfm?id=3326354
+		- https://conf.researchr.org/details/LCTES-2019/LCTES-2019-papers/15/Raising-Binaries-to-LLVM-IR-with-MCTOLL-Work-in-progress-
+- Remill:  Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
+	- https://github.com/trailofbits/remill
+- RetDec: a retargetable machine-code decompiler based on LLVM
+	- https://retdec.com/
+	- https://github.com/avast-tl/retdec
+- revng: a static binary translator
+	- revng is a static binary translator. Given a input ELF binary for one of the supported architectures (currently MIPS, ARM and x86-64) it will analyze it and emit an equivalent LLVM IR. To do so, revng employs the QEMU intermediate representation (a series of TCG instructions) and then translates them to LLVM IR.
+	- https://rev.ng/
+	- https://github.com/revng/revng
 
 #### Passes
 
