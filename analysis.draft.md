@@ -4,8 +4,8 @@ _(draft; work in progress)_
 
 See also:
 
-- [Compilers](compilers.md)
-  - [correctness](compilers.correctness.md)
+- [Compilers](https://raw.githubusercontent.com/MattPD/cpplinks/master/compilers.md)
+  - [correctness](https://raw.githubusercontent.com/MattPD/cpplinks/master/compilers.correctness.md)
 
 ## General
 
@@ -62,7 +62,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://github.com/facebookincubator/SPARTA
 	- SPARTA: a C++ library of software components for building high-performance static analyzers
 	- https://code.fb.com/open-source/sparta/
-
 - Bill Torpey - [static analysis posts](http://btorpey.github.io/blog/categories/static-analysis/)
 	- Static Analysis with Clang - http://btorpey.github.io/blog/2015/04/27/static-analysis-with-clang/
 	- Mo' Static - http://btorpey.github.io/blog/2016/04/07/mo-static/
