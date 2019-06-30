@@ -129,7 +129,7 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://github.com/cadets/loom
 - Mapping High Level Constructs to LLVM IR
 	- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir
-	- https://f0rki.gitbooks.io/mapping-high-level-constructs-to-llvm-ir/content/
+	- https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/
 - [Nick Sumner](https://www.cs.sfu.ca/~wsumner/)'s Examples
 	- slides: https://www.cs.sfu.ca/~wsumner/teaching/886/llvm.pdf
 	- llvm-demo: A simple example of how LLVM can be used to gather static or dynamic facts about a program.
