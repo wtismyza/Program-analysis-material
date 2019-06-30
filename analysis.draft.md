@@ -189,7 +189,13 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 ## Background
 
 - https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
-- https://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
+- Crash Course on Notation in Programming Language Theory
+	- Jeremy G. Siek
+	- LambdaConf 2018
+	- Part 1: https://www.youtube.com/watch?v=vU3caZPtT2I
+	- Part 2: https://www.youtube.com/watch?v=MhuK_aepu1Y …
+	- Slides: https://www.dropbox.com/s/joaq7m9v75blrw5/pl-notation-lambdaconf-2018.pdf?dl=1
+	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
 - https://siek.blogspot.com/2013/05/type-safety-in-three-easy-lemmas.html
 - What is soundness (in static analysis)? - http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/
 - OPLSS (Oregon Programming Languages Summer School) - https://cs.uoregon.edu/research/summerschool/
@@ -208,3 +214,22 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://softsec.kaist.ac.kr/~soomink/paper/ase17main-mainp491-p.pdf
 	- https://github.com/SoftSec-KAIST/MeanDiff
 	- https://softsec-kaist.github.io/MeanDiff/
+- CS 7194 - Great works in Programming Languages - https://www.cs.cornell.edu/courses/cs7194/2019sp/
+- Type Systems - Neel Krishnaswami
+	- https://www.cl.cam.ac.uk/teaching/1819/Types/materials.html
+	- https://www.cl.cam.ac.uk/teaching/1819/Types/handout.pdf
+- http://jschuster.org/blog/2016/11/29/getting-started-in-programming-languages/
+- Programming Languages: Application and Interpretation by Shriram Krishnamurthi
+  - http://cs.brown.edu/~sk/Publications/Books/ProgLangs/
+- SIGPLAN Awards - http://www.sigplan.org/Awards/
+- Great Works in Programming Languages
+  - Collected by Benjamin C. Pierce
+  - https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml
+- 10PL: 10 papers that all PhD students in programming languages ought to know, for some value of 10
+  - Northeastern University Programming Research Lab 
+  - https://github.com/nuprl/10PL
+- Best of PLDI 2004
+  - https://dblp.uni-trier.de/db/conf/pldi/pldi2004best.html
+- Classic Papers in Programming Languages and Logic
+  - Karl Crary
+  - https://www.cs.cmu.edu/~crary/819-f09/
