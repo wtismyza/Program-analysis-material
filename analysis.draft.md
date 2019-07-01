@@ -58,6 +58,10 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - CS 252r: Advanced Topics in Programming Languages
 	- http://web-static-aws.seas.harvard.edu/courses/cs252/2011sp/
 	- https://www.seas.harvard.edu/courses/cs252/2015fa/schedule.html
+- A Gentle Introduction to Program Analysis
+	- Programming Languages Mentoring Workshop 2014
+	- Isıl Dillig (University of Texas)
+	- https://www.cis.upenn.edu/~alur/CIS673/isil-plmw.pdf
 
 ## Software
 
@@ -195,6 +199,20 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- 2016 LLVM Developers’ Meeting
 	- Hal Finkel, Argonne National Laboratory
 	- https://www.youtube.com/watch?v=jII0AcgU_5c
+- Northeastern+MIT LLVM Seminar
+	- 2019; Mike Shah
+	- http://www.mshah.io/#Talks
+	- https://www.youtube.com/playlist?list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+	- Introduction to LLVM 
+		- https://www.youtube.com/watch?v=KTMk45Q0d-8&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+		- http://www.mshah.io/LLVM/NortheasternMITIntroduction%20to%20LLVM.pdf
+		- http://www.mshah.io/LLVM/llvm_6_3_19.zip
+	- Introduction to Clang 
+		- https://www.youtube.com/watch?v=RAzre6PA-WI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoClang.pdf
+	- Introduction to Program Analysis using LLVM
+		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoProgramAnalysisusingLLVM.pdf
+		- https://www.youtube.com/watch?v=w6SD3ramrwI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
 
 #### Lifting
 
