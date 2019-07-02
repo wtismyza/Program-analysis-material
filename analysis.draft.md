@@ -102,10 +102,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - clang-llvm-tutorial
 	- Clang and LLVM Tutorial Examples (AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend)
 	- https://github.com/lijiansong/clang-llvm-tutorial/
-- Creating an LLVM Sanitizer from Hopes and Dreams
-	- https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/
-	- llvm-sanitizer-tutorial and documentation
-		- https://github.com/trailofbits/llvm-sanitizer-tutorial
 - Custom Alias Analysis in LLVM
 	- https://blog.tartanllama.xyz/llvm-alias-analysis/
 - Dg: LLVM Static Slicer
@@ -129,8 +125,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://bholt.org/posts/llvm-debugging.html
 - LLVMPlayground: Small sample programs that use LLVM and Clang APIs.
 	- https://github.com/modocache/LLVMPlayground
-- Loom: LLVM instrumentation library
-	- https://github.com/cadets/loom
 - Mapping High Level Constructs to LLVM IR
 	- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir
 	- https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/
@@ -161,13 +155,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- TACAS 2019
 		- Philipp D. Schubert, Ben Hermann, Eric Bodden
 		- http://www.thewhitespace.de/publications/shb19-phasar.pdf
-- QBDI (QuarkslaB Dynamic binary Instrumentation): A Dynamic Binary Instrumentation framework based on LLVM
-	- https://qbdi.quarkslab.com
-	- https://github.com/quarkslab/QBDI
-	- 34C3 (2017) Implementing an LLVM based Dynamic Binary Instrumentation framework: https://events.ccc.de/congress/2017/Fahrplan/events/9006.html
-	- Example: plugging Triton on top of QBDI - http://shell-storm.org/repo/Notepad/qbdi_with_triton.txt
-	- A Preliminary Test of QBDI - https://www.johnfxgalea.com/2018/01/13/a-preliminary-test-of-qbdi/
-	- Example: SRAC - a Simple Return Address Checker - https://github.com/johnfxgalea/SRAC
 - Quarkslab blog
 	- https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html
 	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm-the-return.html
@@ -213,6 +200,25 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- Introduction to Program Analysis using LLVM
 		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoProgramAnalysisusingLLVM.pdf
 		- https://www.youtube.com/watch?v=w6SD3ramrwI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+
+#### Instrumentation
+
+- Creating an LLVM Sanitizer from Hopes and Dreams
+	- https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/
+	- llvm-sanitizer-tutorial and documentation
+		- https://github.com/trailofbits/llvm-sanitizer-tutorial
+- Loom: LLVM instrumentation library
+	- https://github.com/cadets/loom
+- QBDI (QuarkslaB Dynamic binary Instrumentation): A Dynamic Binary Instrumentation framework based on LLVM
+	- https://qbdi.quarkslab.com
+	- https://github.com/quarkslab/QBDI
+	- 34C3 (2017) Implementing an LLVM based Dynamic Binary Instrumentation framework: https://events.ccc.de/congress/2017/Fahrplan/events/9006.html
+	- Example: plugging Triton on top of QBDI - http://shell-storm.org/repo/Notepad/qbdi_with_triton.txt
+	- A Preliminary Test of QBDI - https://www.johnfxgalea.com/2018/01/13/a-preliminary-test-of-qbdi/
+	- Example: SRAC - a Simple Return Address Checker - https://github.com/johnfxgalea/SRAC
+- sbt-instrumentation: Configurable instrumentation of LLVM bitcode
+	- https://github.com/staticafi/sbt-instrumentation
+	- Instrumentation of LLVM IR - https://is.muni.cz/th/409920/fi_m/?lang=en
 
 #### Lifting
 
