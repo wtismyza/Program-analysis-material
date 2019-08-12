@@ -32,7 +32,11 @@ See also:
 - Foundations of Programming Languages
 	- M-PS (WS 2014/2015): Concepts of Programming Languages
 	- http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/index.en.html
-	- lectures (videos & slides): http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/sessions.en.html
+	- http://web.archive.org/web/http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/index.en.html
+	- lectures (videos & slides):
+		- https://www.youtube.com/channel/UCpSoGwyH5yHHvQut3x6c_2g/playlists
+		- http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/sessions.en.html
+		- http://web.archive.org/web/http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/sessions.en.html
 - Static Program Analysis
 	- Anders Møller and Michael I. Schwartzbach
 	- https://cs.au.dk/~amoeller/spa/
