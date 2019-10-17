@@ -384,3 +384,8 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - Classic Papers in Programming Languages and Logic
   - Karl Crary
   - https://www.cs.cmu.edu/~crary/819-f09/
+- What Type Soundness Theorem Do You Really Want to Prove?
+	- https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/
+	- Milner Award Lecture: The Type Soundness Theorem That You Really Want to Prove (and now you can)
+		- POPL 2018; Derek Dreyer
+		- https://www.youtube.com/watch?v=8Xyk_dGcAwk
