@@ -341,7 +341,12 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Part 2: https://www.youtube.com/watch?v=MhuK_aepu1Y …
 	- Slides: https://www.dropbox.com/s/joaq7m9v75blrw5/pl-notation-lambdaconf-2018.pdf?dl=1
 	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
-- https://siek.blogspot.com/2013/05/type-safety-in-three-easy-lemmas.html
+- Type Safety in Three Easy Lemmas 
+	- https://siek.blogspot.com/2013/05/type-safety-in-three-easy-lemmas.html
+- On the Relationship Between Static Analysis and Type Theory 
+	- https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html
+- Soundness and completeness: with precision
+	- https://bertrandmeyer.com/2019/04/21/soundness-completeness-precision/
 - What is soundness (in static analysis)? - http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/
 - OPLSS (Oregon Programming Languages Summer School)
 	- https://cs.uoregon.edu/research/summerschool/
