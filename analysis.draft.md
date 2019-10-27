@@ -26,6 +26,12 @@ See also:
 	- Roberto Baldoni, Emilio Coppa, Daniele Cono D'Elia, Camil Demetrescu, Irene Finocchi
 	- https://github.com/season-lab/survey-symbolic-execution
 	- https://arxiv.org/abs/1610.00502
+- Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation
+	- Annual Computer Security Applications Conference (ACSAC) 2019
+	- Sebastian Poeplau and Aurélien Francillon
+	- http://s3.eurecom.fr/tools/symbolic_execution/
+	- http://s3.eurecom.fr/docs/acsac19_poeplau.pdf
+	- https://hal.archives-ouvertes.fr/hal-02305914/
 
 ## Lectures & Courses
 
