@@ -219,6 +219,9 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- https://github.com/trailofbits/llvm-sanitizer-tutorial
 - Loom: LLVM instrumentation library
 	- https://github.com/cadets/loom
+- PolyTracker: An LLVM-based instrumentation tool for universal taint analysis.
+	- https://github.com/trailofbits/polytracker
+	- https://blog.trailofbits.com/2019/11/01/two-new-tools-that-tame-the-treachery-of-files/
 - QBDI (QuarkslaB Dynamic binary Instrumentation): A Dynamic Binary Instrumentation framework based on LLVM
 	- https://qbdi.quarkslab.com
 	- https://github.com/quarkslab/QBDI
