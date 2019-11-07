@@ -240,11 +240,6 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - ANVILL Decompiler Toolchain
 	- ANVILL forges beautiful LLVM bitcode out of raw machine code
 	- https://github.com/lifting-bits/anvill
-- McSema: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
-	- https://www.trailofbits.com/research-and-development/mcsema/
-	- https://github.com/lifting-bits/mcsema
-	- Decompiling Binaries into LLVM IR Using McSema and Dyninst
-		- https://is.muni.cz/th/pxe1j/?lang=en
 - llvm-mctoll
 	- This tool statically (AOT) translates (or raises) binaries to LLVM IR.
 	- https://github.com/Microsoft/llvm-mctoll
@@ -253,6 +248,11 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 		- S. Bharadwaj Yadavalli, Aaron Smith
 		- https://dl.acm.org/citation.cfm?id=3326354
 		- https://conf.researchr.org/details/LCTES-2019/LCTES-2019-papers/15/Raising-Binaries-to-LLVM-IR-with-MCTOLL-Work-in-progress-
+- McSema: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
+	- https://www.trailofbits.com/research-and-development/mcsema/
+	- https://github.com/lifting-bits/mcsema
+	- Decompiling Binaries into LLVM IR Using McSema and Dyninst
+		- https://is.muni.cz/th/pxe1j/?lang=en
 - Rellic: produces goto-free C output from LLVM bitcode
 	- Rellic is an implementation of the pattern-independent structuring algorithm to produce a goto-free C output from LLVM bitcode.
 	- https://github.com/lifting-bits/rellic
