@@ -237,9 +237,12 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 
 Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
+- ANVILL Decompiler Toolchain
+	- ANVILL forges beautiful LLVM bitcode out of raw machine code
+	- https://github.com/lifting-bits/anvill
 - McSema: Framework for lifting x86, amd64, and aarch64 program binaries to LLVM bitcode
 	- https://www.trailofbits.com/research-and-development/mcsema/
-	- https://github.com/trailofbits/mcsema
+	- https://github.com/lifting-bits/mcsema
 	- Decompiling Binaries into LLVM IR Using McSema and Dyninst
 		- https://is.muni.cz/th/pxe1j/?lang=en
 - llvm-mctoll
@@ -250,8 +253,11 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 		- S. Bharadwaj Yadavalli, Aaron Smith
 		- https://dl.acm.org/citation.cfm?id=3326354
 		- https://conf.researchr.org/details/LCTES-2019/LCTES-2019-papers/15/Raising-Binaries-to-LLVM-IR-with-MCTOLL-Work-in-progress-
-- Remill:  Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
-	- https://github.com/trailofbits/remill
+- Rellic: produces goto-free C output from LLVM bitcode
+	- Rellic is an implementation of the pattern-independent structuring algorithm to produce a goto-free C output from LLVM bitcode.
+	- https://github.com/lifting-bits/rellic
+- Remill: Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
+	- https://github.com/lifting-bits/remill
 - RetDec: a retargetable machine-code decompiler based on LLVM
 	- https://retdec.com/
 	- https://github.com/avast-tl/retdec
