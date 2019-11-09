@@ -353,7 +353,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Jeremy G. Siek
 	- LambdaConf 2018
 	- Part 1: https://www.youtube.com/watch?v=vU3caZPtT2I
-	- Part 2: https://www.youtube.com/watch?v=MhuK_aepu1Y …
+	- Part 2: https://www.youtube.com/watch?v=MhuK_aepu1Y
 	- Slides: https://www.dropbox.com/s/joaq7m9v75blrw5/pl-notation-lambdaconf-2018.pdf?dl=1
 	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
 - Type Safety in Three Easy Lemmas 
