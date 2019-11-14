@@ -32,6 +32,11 @@ See also:
 	- http://s3.eurecom.fr/tools/symbolic_execution/
 	- http://s3.eurecom.fr/docs/acsac19_poeplau.pdf
 	- https://hal.archives-ouvertes.fr/hal-02305914/
+- Scaling Symbolic Evaluation for Automated Verification of Systems Code with Serval 
+	- [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/program.html)
+	- Luke Nelson, James Bornholt, Ronghui Gu, Andrew Baumann, Emina Torlak, Xi Wang
+	- https://unsat.cs.washington.edu/projects/serval/
+	- https://blog.acolyer.org/2019/11/13/scaling-symbolic-evaluation-serval/
 
 ## Lectures & Courses
 
