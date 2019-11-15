@@ -96,10 +96,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://github.com/HongxuChen/awesome-llvm
 - LLVM Weekly - http://llvmweekly.org/
 - https://eli.thegreenplace.net/tag/llvm-clang
-- Security Research and Development with LLVM - Andrew Reiter
-	- https://github.com/roachspray/opcde2017
-	- https://github.com/comaeio/OPCDE/tree/master/2017/Security%20Research%20and%20Development%20with%20LLVM%20-%20Andrew%20Reiter
-	- Examples - https://github.com/roachspray/opcde2017/tree/master/code
 - Building a Checker in 24 hours
 	- 2012 LLVM Developers’ Meeting; Anna Zaks, Jordan Rose
 	- https://llvm.org/devmtg/2012-11/Zaks-Rose-Checker24Hours.pdf
@@ -114,11 +110,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://github.com/llvm-mirror/llvm/tree/master/tools/opt-viewer
 	- https://llvm.org/devmtg/2016-11/Slides/Nemet-Compiler-assistedPerformanceAnalysis.pdf
 	- https://www.youtube.com/watch?v=qq0q1hfzidg
-- clang-llvm-tutorial
-	- Clang and LLVM Tutorial Examples (AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend)
-	- https://github.com/lijiansong/clang-llvm-tutorial/
-- Custom Alias Analysis in LLVM
-	- https://blog.tartanllama.xyz/llvm-alias-analysis/
 - Dg: LLVM Static Slicer
 	- Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode
 	- https://github.com/mchalupa/dg
@@ -131,13 +122,81 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://www.duskborn.com/posts/fpscev-fast-math-propagation/
 	- http://www.duskborn.com/posts/fpscev-inst-simplify/
 	- http://www.duskborn.com/posts/fpscev-improved-range/
+- LLVM Debugging Tips and Tricks
+	- http://bholt.org/posts/llvm-debugging.html
+- KLEE Symbolic Virtual Machine
+	- http://klee.github.io/
+	- http://klee.github.io/publications/
+	- https://github.com/klee/klee
+- Phasar - A LLVM-based static code analysis framework
+	- http://phasar.org/
+	- https://github.com/secure-software-engineering/phasar
+	- Static Analysis for C++ with Phasar
+	- https://pldi18.sigplan.org/event/pldi-2018-pldi-tutorials-static-analysis-for-c-with-phasar
+	- PhASAR: An Inter-Procedural Static Analysis Framework for C/C++
+		- TACAS 2019
+		- Philipp D. Schubert, Ben Hermann, Eric Bodden
+		- http://www.thewhitespace.de/publications/shb19-phasar.pdf
+- SeaHorn Verification Framework: A fully automated analysis framework for LLVM-based languages
+	- http://seahorn.github.io/
+	- https://github.com/seahorn/seahorn
+	- A Context-Sensitive Memory Model for Verification of C/C++ Programs
+		- Slides: http://seahorn.github.io/papers/sas17_slides.pdf
+		- Paper: http://seahorn.github.io/papers/sea-dsa-SAS17.pdf
+	- Crab-llvm: Abstract Interpretation of LLVM bitcode
+		- https://github.com/seahorn/crab-llvm
+- SVF: Interprocedural Static Value-Flow Analysis in LLVM 
+	- Pointer Analysis and Program Dependence Analysis for C and C++ Programs
+	- http://unsw-corg.github.io/SVF/
+	- https://github.com/unsw-corg/SVF
+	- SVF: Interprocedural Static Value-Flow Analysis in LLVM
+		- Compiler Construction (CC '16)
+		- Yulei Sui and Jingling Xue
+		- https://yuleisui.github.io/publications/cc16.pdf
+		- 2016 EuroLLVM Developers' Meeting: Y. Sui "SVF: Static Value-Flow Analysis in LLVM"
+		- https://www.youtube.com/watch?v=nD-i-enA8rc
+#### Introduction
+
+- Introduction to LLVM
+	- 2019 LLVM Developers’ Meeting
+	- Eric Christopher & Johannes Doerfert
+	- https://www.youtube.com/watch?v=J5xExRGaIIY
+	- https://llvm.org/devmtg/2019-10/talk-abstracts.html#tut9
+- Intrinsics, Metadata, and Attributes: The story continues!
+	- 2016 LLVM Developers’ Meeting
+	- Hal Finkel, Argonne National Laboratory
+	- https://www.youtube.com/watch?v=jII0AcgU_5c
+- LLVM IR Tutorial - Phis, GEPs and other things, oh my!
+	- 2019 EuroLLVM Developers’ Meeting; Vince Bridgers, Felipe de Azevedo Piovezan (Intel)
+	- https://www.youtube.com/watch?v=m8G_S5LwlTo
+- LLVM Seminar - Northeastern+MIT 
+	- 2019; Mike Shah
+	- http://www.mshah.io/#Talks
+	- https://www.youtube.com/playlist?list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+	- Introduction to LLVM 
+		- https://www.youtube.com/watch?v=KTMk45Q0d-8&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+		- http://www.mshah.io/LLVM/NortheasternMITIntroduction%20to%20LLVM.pdf
+		- http://www.mshah.io/LLVM/llvm_6_3_19.zip
+	- Introduction to Clang 
+		- https://www.youtube.com/watch?v=RAzre6PA-WI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoClang.pdf
+	- Introduction to Program Analysis using LLVM
+		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoProgramAnalysisusingLLVM.pdf
+		- https://www.youtube.com/watch?v=w6SD3ramrwI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
+- Security Research and Development with LLVM - Andrew Reiter
+	- https://github.com/roachspray/opcde2017
+	- https://github.com/comaeio/OPCDE/tree/master/2017/Security%20Research%20and%20Development%20with%20LLVM%20-%20Andrew%20Reiter
+	- Examples - https://github.com/roachspray/opcde2017/tree/master/code
+- clang-llvm-tutorial
+	- Clang and LLVM Tutorial Examples (AST Interpreter, Function Pointer Analysis, Value Range Analysis, Data-Flow Analysis, Andersen Pointer Analysis, LLVM Backend)
+	- https://github.com/lijiansong/clang-llvm-tutorial/
+- Custom Alias Analysis in LLVM
+	- https://blog.tartanllama.xyz/llvm-alias-analysis/
 - Introduction to LLVM: Building simple program analysis tools and instrumentation
 	- [FOSDEM 2018](https://fosdem.org/2018/schedule/track/llvm_toolchain/) - Mike Shah
 	- https://fosdem.org/2018/schedule/event/introduction/
 	- https://www.youtube.com/watch?v=VKIv_Bkp4pk
 	- slides & code: http://www.mshah.io/fosdem18.html
-- LLVM Debugging Tips and Tricks
-	- http://bholt.org/posts/llvm-debugging.html
 - LLVMPlayground: Small sample programs that use LLVM and Clang APIs.
 	- https://github.com/modocache/LLVMPlayground
 - Mapping High Level Constructs to LLVM IR
@@ -157,64 +216,12 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- https://github.com/nsumner/overflower-template
 	- path-profiler-template: A template for a path profiling project using LLVM
 		- https://github.com/nsumner/path-profiler-template
-- KLEE Symbolic Virtual Machine
-	- http://klee.github.io/
-	- http://klee.github.io/publications/
-	- https://github.com/klee/klee
-- Phasar - A LLVM-based static code analysis framework
-	- http://phasar.org/
-	- https://github.com/secure-software-engineering/phasar
-	- Static Analysis for C++ with Phasar
-	- https://pldi18.sigplan.org/event/pldi-2018-pldi-tutorials-static-analysis-for-c-with-phasar
-	- PhASAR: An Inter-Procedural Static Analysis Framework for C/C++
-		- TACAS 2019
-		- Philipp D. Schubert, Ben Hermann, Eric Bodden
-		- http://www.thewhitespace.de/publications/shb19-phasar.pdf
 - Quarkslab blog
 	- https://blog.quarkslab.com/global-dead-code-elimination-for-llvm-revisited.html
 	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm-the-return.html
 	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm.html
 - Writing a basic clang static analysis check
 	- https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html
-- SeaHorn Verification Framework: A fully automated analysis framework for LLVM-based languages
-	- http://seahorn.github.io/
-	- https://github.com/seahorn/seahorn
-	- A Context-Sensitive Memory Model for Verification of C/C++ Programs
-		- Slides: http://seahorn.github.io/papers/sas17_slides.pdf
-		- Paper: http://seahorn.github.io/papers/sea-dsa-SAS17.pdf
-	- Crab-llvm: Abstract Interpretation of LLVM bitcode
-		- https://github.com/seahorn/crab-llvm
-- SVF: Interprocedural Static Value-Flow Analysis in LLVM 
-	- Pointer Analysis and Program Dependence Analysis for C and C++ Programs
-	- http://unsw-corg.github.io/SVF/
-	- https://github.com/unsw-corg/SVF
-	- SVF: Interprocedural Static Value-Flow Analysis in LLVM
-		- Compiler Construction (CC '16)
-		- Yulei Sui and Jingling Xue
-		- https://yuleisui.github.io/publications/cc16.pdf
-		- 2016 EuroLLVM Developers' Meeting: Y. Sui "SVF: Static Value-Flow Analysis in LLVM"
-		- https://www.youtube.com/watch?v=nD-i-enA8rc
-- LLVM IR Tutorial - Phis, GEPs and other things, oh my!
-	- 2019 EuroLLVM Developers’ Meeting; Vince Bridgers, Felipe de Azevedo Piovezan (Intel)
-	- https://www.youtube.com/watch?v=m8G_S5LwlTo
-- Intrinsics, Metadata, and Attributes: The story continues!
-	- 2016 LLVM Developers’ Meeting
-	- Hal Finkel, Argonne National Laboratory
-	- https://www.youtube.com/watch?v=jII0AcgU_5c
-- Northeastern+MIT LLVM Seminar
-	- 2019; Mike Shah
-	- http://www.mshah.io/#Talks
-	- https://www.youtube.com/playlist?list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
-	- Introduction to LLVM 
-		- https://www.youtube.com/watch?v=KTMk45Q0d-8&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
-		- http://www.mshah.io/LLVM/NortheasternMITIntroduction%20to%20LLVM.pdf
-		- http://www.mshah.io/LLVM/llvm_6_3_19.zip
-	- Introduction to Clang 
-		- https://www.youtube.com/watch?v=RAzre6PA-WI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
-		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoClang.pdf
-	- Introduction to Program Analysis using LLVM
-		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoProgramAnalysisusingLLVM.pdf
-		- https://www.youtube.com/watch?v=w6SD3ramrwI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
 
 #### Instrumentation
 
