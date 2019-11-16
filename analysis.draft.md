@@ -252,6 +252,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - ANVILL Decompiler Toolchain
 	- ANVILL forges beautiful LLVM bitcode out of raw machine code
 	- https://github.com/lifting-bits/anvill
+- decomp: Compositional Decompilation using LLVM IR
+	- https://github.com/decomp/decomp
+	- Design documents: https://github.com/decomp/doc
 - llvm-mctoll
 	- This tool statically (AOT) translates (or raises) binaries to LLVM IR.
 	- https://github.com/Microsoft/llvm-mctoll
