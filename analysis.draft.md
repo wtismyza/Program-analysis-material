@@ -292,6 +292,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- https://www.youtube.com/watch?v=Z5KcwVaak3s
 - llvm-tutor: Basic LLVM passes for learning the API
 	- https://github.com/banach-space/llvm-tutor
+	- Writing an LLVM Pass: 101
+		- 2019 LLVM Developers’ Meeting; Andrzej Warzynski
+		- https://www.youtube.com/watch?v=ar7cJl2aBuU
 
 ##### Legacy Pass Manager
 
