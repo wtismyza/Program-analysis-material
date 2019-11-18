@@ -295,6 +295,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Writing an LLVM Pass: 101
 		- 2019 LLVM Developers’ Meeting; Andrzej Warzynski
 		- https://www.youtube.com/watch?v=ar7cJl2aBuU
+		- http://llvm.org/devmtg/2019-10/talk-abstracts.html#tut4
 
 ##### Legacy Pass Manager
 
