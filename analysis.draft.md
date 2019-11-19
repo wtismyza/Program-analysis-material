@@ -428,3 +428,8 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Milner Award Lecture: The Type Soundness Theorem That You Really Want to Prove (and now you can)
 		- POPL 2018; Derek Dreyer
 		- https://www.youtube.com/watch?v=8Xyk_dGcAwk
+- Type Theory Behind Glasgow Haskell Compiler Internals
+	- LambdaConf 2018; Vitaly Bragilevsky
+	- https://www.youtube.com/playlist?list=PLvPsfYrGz3wspkm6LVEjndvQqK6SkcXaT
+	- https://github.com/bravit/tt-ghc-exercises/
+	- https://github.com/lambdaconf/lambdaconf-2018/tree/master/LC18-slides
