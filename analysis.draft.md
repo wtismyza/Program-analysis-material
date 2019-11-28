@@ -271,6 +271,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - Rellic: produces goto-free C output from LLVM bitcode
 	- Rellic is an implementation of the pattern-independent structuring algorithm to produce a goto-free C output from LLVM bitcode.
 	- https://github.com/lifting-bits/rellic
+- Rellume — Lifts x86-64 to LLVM IR
+	- https://github.com/aengelke/rellume
+	- Rellume is a lifter for x86-64 machine code to LLVM IR with focus on the performance of the lifted code. The generated LLVM IR can be compiled and executed again, for example using LLVM's JIT compiler, ideally having the same (or even better) performance as the original code. 
 - Remill: Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
 	- https://github.com/lifting-bits/remill
 - RetDec: a retargetable machine-code decompiler based on LLVM
