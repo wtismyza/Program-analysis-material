@@ -155,6 +155,15 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- https://yuleisui.github.io/publications/cc16.pdf
 		- 2016 EuroLLVM Developers' Meeting: Y. Sui "SVF: Static Value-Flow Analysis in LLVM"
 		- https://www.youtube.com/watch?v=nD-i-enA8rc
+
+#### Clang
+
+- My First Clang Warning
+	- 2019 LLVM Developers’ Meeting
+	- Meike Baumgärtner, Dmitri Gribenko
+	- https://www.youtube.com/watch?v=FNnKMSkaLkY
+	- https://llvm.org/devmtg/2019-10/talk-abstracts.html#tut11
+
 #### Introduction
 
 - Introduction to LLVM
