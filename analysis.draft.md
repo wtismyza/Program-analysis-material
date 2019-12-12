@@ -113,9 +113,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - Dg: LLVM Static Slicer
 	- Dependence graph for programs. A set of generic program analyses and a static slicer for LLVM bitcode
 	- https://github.com/mchalupa/dg
-- Faster, Stronger C++ Analysis with the Clang Static Analyzer
-	- 2018 LLVM Developers’ Meeting; George Karpenkov, Artem Dergachev
-	- https://www.youtube.com/watch?v=4n3l-ZcDJNY
 - FPSCEV: Floating-Point Scalar Evolution in LLVM
 	- https://github.com/sheredom/fpscev
 	- http://www.duskborn.com/posts/fpscev/
@@ -163,6 +160,12 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- Meike Baumgärtner, Dmitri Gribenko
 	- https://www.youtube.com/watch?v=FNnKMSkaLkY
 	- https://llvm.org/devmtg/2019-10/talk-abstracts.html#tut11
+
+##### Clang Static Analyzer
+
+- Faster, Stronger C++ Analysis with the Clang Static Analyzer
+	- 2018 LLVM Developers’ Meeting; George Karpenkov, Artem Dergachev
+	- https://www.youtube.com/watch?v=4n3l-ZcDJNY
 
 #### Introduction
 
