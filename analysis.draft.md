@@ -121,10 +121,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://www.duskborn.com/posts/fpscev-improved-range/
 - LLVM Debugging Tips and Tricks
 	- http://bholt.org/posts/llvm-debugging.html
-- KLEE Symbolic Virtual Machine
-	- http://klee.github.io/
-	- http://klee.github.io/publications/
-	- https://github.com/klee/klee
 - Phasar - A LLVM-based static code analysis framework
 	- http://phasar.org/
 	- https://github.com/secure-software-engineering/phasar
@@ -152,6 +148,16 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- https://yuleisui.github.io/publications/cc16.pdf
 		- 2016 EuroLLVM Developers' Meeting: Y. Sui "SVF: Static Value-Flow Analysis in LLVM"
 		- https://www.youtube.com/watch?v=nD-i-enA8rc
+
+#### LLVM - Symbolic Execution
+
+- haybale: Symbolic execution of LLVM IR with an engine written in Rust
+	- operates on LLVM IR, which allows it to analyze programs written in C/C++, Rust, Swift, or any other language which compiles to LLVM IR
+	- https://github.com/PLSysSec/haybale
+- KLEE Symbolic Virtual Machine
+	- http://klee.github.io/
+	- http://klee.github.io/publications/
+	- https://github.com/klee/klee
 
 #### Clang
 
