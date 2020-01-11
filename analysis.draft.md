@@ -119,6 +119,15 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://www.duskborn.com/posts/fpscev-fast-math-propagation/
 	- http://www.duskborn.com/posts/fpscev-inst-simplify/
 	- http://www.duskborn.com/posts/fpscev-improved-range/
+- LLVM Dataflow Info Printer Pass
+	- https://github.com/regehr/llvm-dataflow-info
+	- Tell us what some of LLVM's dataflow analyses think about the code being compiled.
+	- Testing Dataflow Analyses for Precision and Soundness
+		- https://blog.regehr.org/archives/1709
+	- Testing Static Analyses for Precision and Soundness
+		- CGO (Code Generation and Optimization) 2020
+		- Jubi Taneja, Zhengyang Liu, John Regehr
+		- http://www.cs.utah.edu/~regehr/cgo20.pdf
 - LLVM Debugging Tips and Tricks
 	- http://bholt.org/posts/llvm-debugging.html
 - Phasar - A LLVM-based static code analysis framework
