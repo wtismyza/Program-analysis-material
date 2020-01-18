@@ -187,6 +187,10 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 
 #### Introduction
 
+- Building Program Reasoning Tools using LLVM and Z3
+	- POPL 2020 Tutorial
+	- Introduction to LLVM and Z3; Static Dataflow Analysis, Dynamic Symbolic Execution, Assertion Verification
+	- http://rightingcode.org/tutorials/popl20/
 - Getting Started With LLVM: Basics
 	- 2019 LLVM Developers’ Meeting; Jessica Paquette, Florian Hahn
 	- https://www.youtube.com/watch?v=3QQuhL-dSys
