@@ -139,14 +139,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- TACAS 2019
 		- Philipp D. Schubert, Ben Hermann, Eric Bodden
 		- http://www.thewhitespace.de/publications/shb19-phasar.pdf
-- SeaHorn Verification Framework: A fully automated analysis framework for LLVM-based languages
-	- http://seahorn.github.io/
-	- https://github.com/seahorn/seahorn
-	- A Context-Sensitive Memory Model for Verification of C/C++ Programs
-		- Slides: http://seahorn.github.io/papers/sas17_slides.pdf
-		- Paper: http://seahorn.github.io/papers/sea-dsa-SAS17.pdf
-	- Crab-llvm: Abstract Interpretation of LLVM bitcode
-		- https://github.com/seahorn/crab-llvm
 - SVF: Interprocedural Static Value-Flow Analysis in LLVM 
 	- Pointer Analysis and Program Dependence Analysis for C and C++ Programs
 	- http://svf-tools.github.io/SVF/
@@ -167,6 +159,60 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://klee.github.io/
 	- http://klee.github.io/publications/
 	- https://github.com/klee/klee
+
+#### LLVM - Verification
+
+- LLBMC: The Low-Level Bounded Model Checker
+	- http://llbmc.org/
+	- http://llbmc.org/publications.html
+	- LLBMC: Bounded Model Checking of C and C++ Programs Using a Compiler IR
+		- Verified Software: Theories, Tools and Experiments (VSTTE) 2012
+		- Florian Merz, Stephan Falke, Carsten Sinz
+		- https://doi.org/10.1007/978-3-642-27705-4_12
+		- http://llbmc.org/files/papers/VSTTE12.pdf
+		- http://llbmc.org/files/talks/vstte-2012.pdf
+- llrêve: Automatic regression verification for LLVM programs 
+	- Automatically check programs for equivalence
+	- https://github.com/mattulbrich/llreve
+	- https://formal.iti.kit.edu/projects/improve/reve/
+	- Relational Program Reasoning Using Compiler IR – Combining Static Verification and Dynamic Analysis
+		- Journal of Automated Reasoning 60(3) 2017
+		- Moritz Kiefer, Vladimir Klebanov, Mattias Ulbrich
+		- http://dx.doi.org/10.1007/s10817-017-9433-5
+- SAW: Software Analysis Workbench
+	- https://saw.galois.com/
+	- Constructing Semantic Models of Programs with the Software Analysis Workbench
+		- Verified Software: Theories, Tools and Experiments (VSTTE) 2016
+		- Robert Dockins, Adam Foltzer, Joe Hendrix, Brian Huffman, Dylan McNamee, Aaron Tomb
+		- https://doi.org/10.1007/978-3-319-48869-1_5
+- SeaHorn Verification Framework: A fully automated analysis framework for LLVM-based languages
+	- http://seahorn.github.io/
+	- https://github.com/seahorn/seahorn
+	- http://seahorn.github.io/#publications
+	- The SeaHorn Verification Framework
+		- Computer Aided Verification (CAV) 2015
+		- A. Gurfinkel, T. Kahsai, A. Komuravelli, J.A.Navas
+		- http://seahorn.github.io/papers/cav15.pdf
+	- A Context-Sensitive Memory Model for Verification of C/C++ Programs
+		- Slides: http://seahorn.github.io/papers/sas17_slides.pdf
+		- Paper: http://seahorn.github.io/papers/sea-dsa-SAS17.pdf
+	- Crab-llvm: Abstract Interpretation of LLVM bitcode
+		- https://github.com/seahorn/crab-llvm
+- SMACK Software Verifier and Verification Toolchain
+	- http://smackers.github.io
+	- https://github.com/smackers/smack
+	- SMACK: Decoupling Source Language Details from Verifier Implementations
+		- Computer Aided Verification (CAV) 2014
+		- Zvonimir Rakamaric, Michael Emmi
+		- https://soarlab.org/publications/2014_CAV_SMACK/
+	- SMACK Software Verification Toolchain
+		- International Conference on Software Engineering (ICSE) Companion 2016
+		- Montgomery Carter, Shaobo He, Jonathan Whitaker, Zvonimir Rakamaric, Michael Emmi
+		- https://soarlab.org/publications/2016_ICSE_SMACK/
+	- Leveraging Compiler Intermediate Representation for Multi- and Cross-Language Verification
+		- Verification, Model Checking, and Abstract Interpretation (VMCAI) 2020
+		- Jack Garzella, Marek S. Baranowski, Shaobo He, Zvonimir Rakamaric
+		- https://soarlab.org/publications/2020_vmcai_gbhr/
 
 #### Clang
 
