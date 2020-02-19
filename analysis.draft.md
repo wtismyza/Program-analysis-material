@@ -471,6 +471,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - Soundness and completeness: with precision
 	- https://bertrandmeyer.com/2019/04/21/soundness-completeness-precision/
 - What is soundness (in static analysis)? - http://www.pl-enthusiast.net/2017/10/23/what-is-soundness-in-static-analysis/
+- Brown CS: CSCI 1730: Programming Languages
+	- http://cs.brown.edu/courses/csci1730/2012/
+	- http://cs.brown.edu/courses/cs173/2012/Videos/
 - OPLSS (Oregon Programming Languages Summer School)
 	- https://cs.uoregon.edu/research/summerschool/
 	- 2019-2017, 2003: https://www.youtube.com/channel/UCDe6N9R7U-RYWA57wzJQ2SQ/playlists
