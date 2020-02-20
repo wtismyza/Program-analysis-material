@@ -315,6 +315,10 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://blog.trailofbits.com/2019/06/25/creating-an-llvm-sanitizer-from-hopes-and-dreams/
 	- llvm-sanitizer-tutorial and documentation
 		- https://github.com/trailofbits/llvm-sanitizer-tutorial
+- Instrew: Leveraging LLVM for High Performance Dynamic Binary Instrumentation
+	- VEE 2020
+	- Alexis Engelke, Martin Schulz
+	- https://conf.researchr.org/details/vee-2020/vee-2020-papers/5/Instrew-Leveraging-LLVM-for-High-Performance-Dynamic-Binary-Instrumentation
 - Loom: LLVM instrumentation library
 	- https://github.com/cadets/loom
 - PolyTracker: An LLVM-based instrumentation tool for universal taint analysis.
