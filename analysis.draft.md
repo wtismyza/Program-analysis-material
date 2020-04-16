@@ -530,3 +530,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- https://www.youtube.com/playlist?list=PLvPsfYrGz3wspkm6LVEjndvQqK6SkcXaT
 	- https://github.com/bravit/tt-ghc-exercises/
 	- https://github.com/lambdaconf/lambdaconf-2018/tree/master/LC18-slides
+- Principles of Programming Languages
+	- Lectures - Matthias Felleisen
+	- https://felleisen.org/matthias/4400-s20/lectures.html
+
