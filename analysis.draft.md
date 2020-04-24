@@ -443,6 +443,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- IEEE International Working Conference on Source Code Analysis and Manipulation (SCAM) 2018
 	- Mark Harman, Peter O'Hearn
 	- https://research.fb.com/publications/from-start-ups-to-scale-ups-opportunities-and-open-problems-for-static-and-dynamic-program-analysis/
+- How to Prevent the next Heartbleed
+	- 2014; David A. Wheeler
+	- https://dwheeler.com/essays/heartbleed.html
 - Lessons from Building Static Analysis Tools at Google (2018)
 	- https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext
 - Pointer analysis: haven't we solved this problem yet?
