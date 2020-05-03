@@ -26,6 +26,11 @@ See also:
 	- Roberto Baldoni, Emilio Coppa, Daniele Cono D'Elia, Camil Demetrescu, Irene Finocchi
 	- https://github.com/season-lab/survey-symbolic-execution
 	- https://arxiv.org/abs/1610.00502
+- All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)
+	- Security and Privacy (SP), 2010
+	- Edward J. Schwartz, Thanassis Avgerinos, David Brumley
+	- Paper: https://edmcman.github.io/papers/oakland10.pdf
+	- Slides: https://edmcman.github.io/pres/oakland10.pdf
 - Systematic Comparison of Symbolic Execution Systems: Intermediate Representation and its Generation
 	- Annual Computer Security Applications Conference (ACSAC) 2019
 	- Sebastian Poeplau and Aurélien Francillon
@@ -429,11 +434,6 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Communications of the ACM, Vol. 53 No. 2, 2010
 	- Al Bessey, Ken Block, Ben Chelf, Andy Chou, Bryan Fulton, Seth Hallem, Charles Henri-Gros, Asya Kamsky, Scott McPeak, Dawson Engler
 	- https://cacm.acm.org/magazines/2010/2/69354-a-few-billion-lines-of-code-later/fulltext
-- All You Ever Wanted to Know About Dynamic Taint Analysis and Forward Symbolic Execution (but might have been afraid to ask)
-	- Security and Privacy (SP), 2010
-	- Edward J. Schwartz, Thanassis Avgerinos, David Brumley
-	- Paper: https://edmcman.github.io/papers/oakland10.pdf
-	- Slides: https://edmcman.github.io/pres/oakland10.pdf
 - Analysing the Program Analyser
 	- https://srg.doc.ic.ac.uk/publications/analyse-analyser-icse-v2025.html
 - Continuous Reasoning: Scaling the Impact of Formal Methods
