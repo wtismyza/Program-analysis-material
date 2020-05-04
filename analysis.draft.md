@@ -6,6 +6,9 @@ See also:
 
 - [Compilers](https://github.com/MattPD/cpplinks/blob/master/compilers.md)
   - [correctness](https://github.com/MattPD/cpplinks/blob/master/compilers.correctness.md)
+- Program analysis:
+  - [Dynamic analysis](https://github.com/MattPD/cpplinks/blob/master/analysis.dynamic.md) - instrumentation, translation, sanitizers
+  - [Static analysis](https://github.com/MattPD/cpplinks/blob/master/analysis.static.md) - static analysis (static checkers and compilers) and verification
 
 ## General
 
