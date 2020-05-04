@@ -392,6 +392,8 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- https://github.com/quarkslab/llvm-dev-meeting-tutorial-2015
 	- https://blog.quarkslab.com/goto-llvm_dev_meeting.html
 	- https://www.youtube.com/watch?v=Z5KcwVaak3s
+- llvm-pass-tutorial: A step-by-step tutorial for building an LLVM sample pass
+	- https://github.com/abenkhadra/llvm-pass-tutorial
 - llvm-tutor: Basic LLVM passes for learning the API
 	- https://github.com/banach-space/llvm-tutor
 	- Writing an LLVM Pass: 101
