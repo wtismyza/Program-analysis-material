@@ -541,4 +541,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - Principles of Programming Languages
 	- Lectures - Matthias Felleisen
 	- https://felleisen.org/matthias/4400-s20/lectures.html
-
+-  learn-programming-languages
+	- Resources for the working programmer to learn more about the fundamentals and theory of programming languages.
+	- Jean Yang
+	- https://github.com/jeanqasaur/learn-programming-languages
