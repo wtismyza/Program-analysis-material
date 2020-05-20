@@ -224,6 +224,8 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 
 #### Clang
 
+- clang-tutor: A collection of Clang plugins - learn the API through examples
+	- https://github.com/banach-space/clang-tutor/
 - My First Clang Warning
 	- 2019 LLVM Developers’ Meeting
 	- Meike Baumgärtner, Dmitri Gribenko
