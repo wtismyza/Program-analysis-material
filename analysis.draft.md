@@ -471,16 +471,6 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
 ## Background
 
-- A practitioner’s guide to reading programming languages papers
-	- Adrian Colyer
-	- https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
-- Crash Course on Notation in Programming Language Theory
-	- Jeremy G. Siek
-	- LambdaConf 2018
-	- Part 1: https://www.youtube.com/watch?v=vU3caZPtT2I
-	- Part 2: https://www.youtube.com/watch?v=MhuK_aepu1Y
-	- Slides: https://www.dropbox.com/s/joaq7m9v75blrw5/pl-notation-lambdaconf-2018.pdf?dl=1
-	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
 - Type Safety in Three Easy Lemmas 
 	- https://siek.blogspot.com/2013/05/type-safety-in-three-easy-lemmas.html
 - On the Relationship Between Static Analysis and Type Theory 
@@ -549,3 +539,21 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Resources for the working programmer to learn more about the fundamentals and theory of programming languages.
 	- Jean Yang
 	- https://github.com/jeanqasaur/learn-programming-languages
+
+### Background: Notation
+
+- A practitioner’s guide to reading programming languages papers
+	- Adrian Colyer
+	- https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
+- Crash Course on Notation in Programming Language Theory
+	- Jeremy G. Siek
+	- LambdaConf 2018
+	- Part 1: https://www.youtube.com/watch?v=vU3caZPtT2I
+	- Part 2: https://www.youtube.com/watch?v=MhuK_aepu1Y
+	- Slides: https://www.dropbox.com/s/joaq7m9v75blrw5/pl-notation-lambdaconf-2018.pdf?dl=1
+	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
+- It's Time for a New Old Language
+	- Guy Steele
+	- 2017 ACM PPoPP 
+	- https://www.youtube.com/watch?v=7HKbjYqqPPQ
+	- https://www.youtube.com/watch?v=dCuZkaaou0Q
