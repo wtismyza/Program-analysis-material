@@ -554,6 +554,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- 2012 blog post: http://siek.blogspot.com/2012/07/crash-course-on-notation-in-programming.html
 - It's Time for a New Old Language
 	- Guy Steele
-	- 2017 ACM PPoPP 
+	- 2017 ACM Symposium on Principles and Practice of Parallel Programming (PPoPP)
 	- https://www.youtube.com/watch?v=7HKbjYqqPPQ
 	- https://www.youtube.com/watch?v=dCuZkaaou0Q
+	- Slides: https://labs.oracle.com/pls/apex/f?p=94065:40150:0::::P40150_PUBLICATION_ID:5376
