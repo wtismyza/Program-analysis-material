@@ -471,7 +471,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
 ## Background
 
-- https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
+- A practitioner’s guide to reading programming languages papers
+	- Adrian Colyer
+	- https://blog.acolyer.org/2018/01/26/a-practitioners-guide-to-reading-programming-languages-papers/
 - Crash Course on Notation in Programming Language Theory
 	- Jeremy G. Siek
 	- LambdaConf 2018
