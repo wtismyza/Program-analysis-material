@@ -167,6 +167,13 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- http://klee.github.io/
 	- http://klee.github.io/publications/
 	- https://github.com/klee/klee
+- SymCC: efficient compiler-based symbolic execution
+	- https://github.com/eurecom-s3/symcc
+	- Symbolic execution with SymCC: Don't interpret, compile!
+		- USENIX Security 2020
+		- Sebastian Poeplau, Aurélien Francillon
+		- http://www.s3.eurecom.fr/tools/symbolic_execution/symcc.html
+		- https://www.usenix.org/conference/usenixsecurity20/presentation/poeplau
 
 #### LLVM - Verification
 
