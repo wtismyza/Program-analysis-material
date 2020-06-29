@@ -565,3 +565,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- https://www.youtube.com/watch?v=7HKbjYqqPPQ
 	- https://www.youtube.com/watch?v=dCuZkaaou0Q
 	- Slides: https://labs.oracle.com/pls/apex/f?p=94065:40150:0::::P40150_PUBLICATION_ID:5376
+- What are we thinking when we present a type theory?
+	- Homotopy Type Theory Electronic Seminar Talks, 2020-06-15; Peter LeFanu Lumsdaine
+	- https://www.youtube.com/watch?v=kQe0knDuZqg
+	- https://www.uwo.ca/math/faculty/kapulkin/seminars/hottestfiles/Lumsdaine-2020-06-15-HoTTEST.pdf
