@@ -441,6 +441,10 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 		- https://medium.com/@mshockwave/writing-llvm-pass-in-2018-preface-6b90fa67ae82
 	- Part II - AnalysisManager - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-ii-640f680978ec
 	- Part III - In-Tree Pass Integration - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-iii-d44cd0c2c354
+- Writing Pass Instrumentations for the New PassManager
+	- The more general and flexible version of `-print-before` / `-print-after`
+	- https://medium.com/@mshockwave/writing-pass-instrument-for-llvm-newpm-f17c57d3369f
+	- https://github.com/mshockwave/LLVM-NewPM-PassInstrumentation-Demo
 
 ## Readings
 
