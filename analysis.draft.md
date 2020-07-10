@@ -409,6 +409,13 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 		- 2019 LLVM Developers’ Meeting; Andrzej Warzynski
 		- https://www.youtube.com/watch?v=ar7cJl2aBuU
 		- http://llvm.org/devmtg/2019-10/talk-abstracts.html#tut4
+- Writing an LLVM Optimization
+	- 2020; Jonathan Smith
+	- A brief overview of LLVM, its pass and IR frameworks and API, and a tutorial on how to write legacy and modern optimization passes.
+	- https://www.youtube.com/watch?v=MagR2KY8MQI
+	- https://old.reddit.com/r/cpp/comments/hopfg3/writing_an_llvm_optimization_my_quarantine/
+	- float-compare-pass: Fork of LLVM for demonstrating optimization pass development 
+		- https://github.com/jvstech/float-compare-pass
 
 ##### Legacy Pass Manager
 
