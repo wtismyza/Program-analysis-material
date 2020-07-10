@@ -419,7 +419,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
 ##### Legacy Pass Manager
 
-- 2007 LLVM Developer's Meeting
+- 2007 LLVM Developer's Meeting; Devang Patel
 	- http://llvm.org/devmtg/2007-05/03-Patel-Passmanager.pdf
 	- LLVM Pass Manager Demystified (1 of 3) - https://www.youtube.com/watch?v=dZOrlikTaik
 	- LLVM Pass Manager Demystified (2 of 3) - https://www.youtube.com/watch?v=PaUWxVLGBg0
@@ -443,12 +443,14 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- https://www.youtube.com/watch?v=rY02LT08-J8
 	- https://llvm.org/devmtg/2014-04/PDFs/Talks/Passes.pdf
 - Writing LLVM Pass in 2018
+	- 2018; Min-Yih Hsu
 	- Preface - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-preface-6b90fa67ae82
 	- Part I: Write a new HelloWorld Pass in new pass manager fashion
 		- https://medium.com/@mshockwave/writing-llvm-pass-in-2018-preface-6b90fa67ae82
 	- Part II - AnalysisManager - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-ii-640f680978ec
 	- Part III - In-Tree Pass Integration - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-part-iii-d44cd0c2c354
 - Writing Pass Instrumentations for the New PassManager
+	- 2020; Min-Yih Hsu
 	- The more general and flexible version of `-print-before` / `-print-after`
 	- https://medium.com/@mshockwave/writing-pass-instrument-for-llvm-newpm-f17c57d3369f
 	- https://github.com/mshockwave/LLVM-NewPM-PassInstrumentation-Demo
