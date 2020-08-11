@@ -260,6 +260,9 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - How to Contribute to LLVM
 	- 2019 LLVM Developers’ Meeting; Chris Bieneman, Kit Barton
 	- https://www.youtube.com/watch?v=C5Y977rLqpw
+- Intro to the Architecture of LLVM
+	- 2020; Nick Desaulniers
+	- https://www.youtube.com/watch?v=bUTXhcf_aNc
 - Introduction to LLVM
 	- 2019 LLVM Developers’ Meeting
 	- Eric Christopher & Johannes Doerfert
