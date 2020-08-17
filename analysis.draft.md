@@ -85,6 +85,10 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- Programming Languages Mentoring Workshop 2014
 	- Isıl Dillig (University of Texas)
 	- https://www.cis.upenn.edu/~alur/CIS673/isil-plmw.pdf
+- UFMG DCC888: Static Program Analysis
+	- 2020; Fernando Magno Quintão Pereira
+	- https://homepages.dcc.ufmg.br/~fernando/classes/dcc888/
+	- https://www.youtube.com/playlist?list=PLC-dUCVQghfdu7AG5f_p4oRyKgjDuoAWU
 
 ## Software
 
