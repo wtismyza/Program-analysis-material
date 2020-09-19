@@ -276,9 +276,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- 2016 LLVM Developers’ Meeting
 	- Hal Finkel, Argonne National Laboratory
 	- https://www.youtube.com/watch?v=jII0AcgU_5c
-- LLVM IR Tutorial - Phis, GEPs and other things, oh my!
-	- 2019 EuroLLVM Developers’ Meeting; Vince Bridgers, Felipe de Azevedo Piovezan (Intel)
-	- https://www.youtube.com/watch?v=m8G_S5LwlTo
 - LLVM Seminar - Northeastern+MIT 
 	- 2019; Mike Shah
 	- http://www.mshah.io/#Talks
@@ -309,9 +306,6 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- slides & code: http://www.mshah.io/fosdem18.html
 - LLVMPlayground: Small sample programs that use LLVM and Clang APIs.
 	- https://github.com/modocache/LLVMPlayground
-- Mapping High Level Constructs to LLVM IR
-	- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir
-	- https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/
 - [Nick Sumner](https://www.cs.sfu.ca/~wsumner/)'s Examples
 	- slides: https://www.cs.sfu.ca/~wsumner/teaching/886/llvm.pdf
 	- llvm-demo: A simple example of how LLVM can be used to gather static or dynamic facts about a program.
@@ -332,6 +326,17 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- https://blog.quarkslab.com/turning-regular-code-into-atrocities-with-llvm.html
 - Writing a basic clang static analysis check
 	- https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html
+
+##### Introduction: LLVM IR
+
+- LLVM IR Tutorial - Phis, GEPs and other things, oh my!
+	- 2019 EuroLLVM Developers’ Meeting; Vince Bridgers, Felipe de Azevedo Piovezan (Intel)
+	- https://www.youtube.com/watch?v=m8G_S5LwlTo
+- LLVM's getelementptr, by example
+	- https://blog.yossarian.net/2020/09/19/LLVMs-getelementptr-by-example
+- Mapping High Level Constructs to LLVM IR
+	- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir
+	- https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/
 
 #### Instrumentation
 
