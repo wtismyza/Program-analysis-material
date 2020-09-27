@@ -40,7 +40,7 @@ See also:
 	- http://s3.eurecom.fr/tools/symbolic_execution/
 	- http://s3.eurecom.fr/docs/acsac19_poeplau.pdf
 	- https://hal.archives-ouvertes.fr/hal-02305914/
-- Scaling Symbolic Evaluation for Automated Verification of Systems Code with Serval 
+- Scaling Symbolic Evaluation for Automated Verification of Systems Code with Serval
 	- [SOSP 2019](https://sosp19.rcs.uwaterloo.ca/program.html)
 	- Luke Nelson, James Bornholt, Ronghui Gu, Andrew Baumann, Emina Torlak, Xi Wang
 	- https://unsat.cs.washington.edu/projects/serval/
@@ -59,17 +59,24 @@ See also:
 - Static Program Analysis
 	- Anders Møller and Michael I. Schwartzbach
 	- https://cs.au.dk/~amoeller/spa/
-	- PLISS 2019 - Anders Møller 
+	- PLISS 2019 - Anders Møller
 		- Static Program Analysis (part 1/2) - https://www.youtube.com/watch?v=Lr4cMmaJHrg
 		- Static Program Analysis (part 2/2) - https://www.youtube.com/watch?v=6QQSIIvH-F0
 - 25 Years of Program Analysis
 	- DEF CON 25 (2017) - Yan Shoshitaishvili (Zardus)
 	- https://www.youtube.com/watch?v=XL9kWQ3YpLo
 	- https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Zardus-25-Years-of-Program-Analysis-UPDATED.pdf
-- Software Analysis and Testing - [Mayur Naik](http://www.cis.upenn.edu/~mhnaik/)
-	- http://rightingcode.org/
-	- http://www.cis.upenn.edu/~mhnaik/edu/cis700/
-	- https://www.youtube.com/channel/UCvwqRhlkE_Wm2FF9qzvHfJw
+- Software Analysis
+	- CIS 547; University of Pennsylvania
+	- [Mayur Naik](http://www.cis.upenn.edu/~mhnaik/)
+	- https://www.seas.upenn.edu/~cis547/
+	- https://www.youtube.com/playlist?list=PLF3-CvSRq2SYXEiS80KuZQ80q8K2aHLQX
+- Software Analysis and Testing
+	- CIS 700; Georgia Institute of Technology
+	- [Mayur Naik](http://www.cis.upenn.edu/~mhnaik/)
+	- https://rightingcode.org/
+	- https://www.cis.upenn.edu/~mhnaik/edu/cis700/
+	- https://www.youtube.com/playlist?list=PLF3-CvSRq2SaApl3Lnu6Tu_ecsBr94543
 - Program Analysis and Reliability - Nick Sumner, CMPT 886, Spring 2015, SFU
 	- Playlist: https://www.youtube.com/playlist?list=PLNC6lmsIySCOPjY8IwKBtD2cqe-MMgIGM
 	- Schedule & Slides: http://www.cs.sfu.ca/~wsumner/teaching/886/15/schedule.html
@@ -151,7 +158,7 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- TACAS 2019
 		- Philipp D. Schubert, Ben Hermann, Eric Bodden
 		- http://www.thewhitespace.de/publications/shb19-phasar.pdf
-- SVF: Interprocedural Static Value-Flow Analysis in LLVM 
+- SVF: Interprocedural Static Value-Flow Analysis in LLVM
 	- Pointer Analysis and Program Dependence Analysis for C and C++ Programs
 	- http://svf-tools.github.io/SVF/
 	- https://github.com/unsw-corg/SVF
@@ -190,7 +197,7 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 		- https://doi.org/10.1007/978-3-642-27705-4_12
 		- http://llbmc.org/files/papers/VSTTE12.pdf
 		- http://llbmc.org/files/talks/vstte-2012.pdf
-- llrêve: Automatic regression verification for LLVM programs 
+- llrêve: Automatic regression verification for LLVM programs
 	- Automatically check programs for equivalence
 	- https://github.com/mattulbrich/llreve
 	- https://formal.iti.kit.edu/projects/improve/reve/
@@ -276,15 +283,15 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 	- 2016 LLVM Developers’ Meeting
 	- Hal Finkel, Argonne National Laboratory
 	- https://www.youtube.com/watch?v=jII0AcgU_5c
-- LLVM Seminar - Northeastern+MIT 
+- LLVM Seminar - Northeastern+MIT
 	- 2019; Mike Shah
 	- http://www.mshah.io/#Talks
 	- https://www.youtube.com/playlist?list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
-	- Introduction to LLVM 
+	- Introduction to LLVM
 		- https://www.youtube.com/watch?v=KTMk45Q0d-8&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
 		- http://www.mshah.io/LLVM/NortheasternMITIntroduction%20to%20LLVM.pdf
 		- http://www.mshah.io/LLVM/llvm_6_3_19.zip
-	- Introduction to Clang 
+	- Introduction to Clang
 		- https://www.youtube.com/watch?v=RAzre6PA-WI&list=PLvv0ScY6vfd8NDoT7qUab4VVAWV67oH-N
 		- http://www.mshah.io/LLVM/NortheasternMITIntroductiontoClang.pdf
 	- Introduction to Program Analysis using LLVM
@@ -393,7 +400,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- https://github.com/lifting-bits/rellic
 - Rellume — Lifts x86-64 to LLVM IR
 	- https://github.com/aengelke/rellume
-	- Rellume is a lifter for x86-64 machine code to LLVM IR with focus on the performance of the lifted code. The generated LLVM IR can be compiled and executed again, for example using LLVM's JIT compiler, ideally having the same (or even better) performance as the original code. 
+	- Rellume is a lifter for x86-64 machine code to LLVM IR with focus on the performance of the lifted code. The generated LLVM IR can be compiled and executed again, for example using LLVM's JIT compiler, ideally having the same (or even better) performance as the original code.
 - Remill: Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
 	- https://github.com/lifting-bits/remill
 - RetDec: a retargetable machine-code decompiler based on LLVM
@@ -426,7 +433,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- A brief overview of LLVM, its pass and IR frameworks and API, and a tutorial on how to write legacy and modern optimization passes.
 	- https://www.youtube.com/watch?v=MagR2KY8MQI
 	- https://old.reddit.com/r/cpp/comments/hopfg3/writing_an_llvm_optimization_my_quarantine/
-	- float-compare-pass: Fork of LLVM for demonstrating optimization pass development 
+	- float-compare-pass: Fork of LLVM for demonstrating optimization pass development
 		- https://github.com/jvstech/float-compare-pass
 
 ##### Legacy Pass Manager
@@ -503,9 +510,9 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
 ## Background
 
-- Type Safety in Three Easy Lemmas 
+- Type Safety in Three Easy Lemmas
 	- https://siek.blogspot.com/2013/05/type-safety-in-three-easy-lemmas.html
-- On the Relationship Between Static Analysis and Type Theory 
+- On the Relationship Between Static Analysis and Type Theory
 	- https://semantic-domain.blogspot.com/2019/08/on-relationship-between-static-analysis.html
 - Soundness and completeness: with precision
 	- https://bertrandmeyer.com/2019/04/21/soundness-completeness-precision/
@@ -520,7 +527,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- free video lectures available, including the introductory ones based on Practical Foundations for Programming Languages: http://www.cs.cmu.edu/~rwh/pfpl/
 - Programming Language Implementation Summer School (PLISS)
 	- https://pliss2019.github.io/talks.html
-	- https://www.youtube.com/channel/UCofC5zis7rPvXxWQRDnrTqA/playlists 
+	- https://www.youtube.com/channel/UCofC5zis7rPvXxWQRDnrTqA/playlists
 - SSA book - http://ssabook.gforge.inria.fr/latest/
 - Intermediate Representations in Imperative Compilers: A Survey
 	- ACM Computing Surveys, Vol. 45, No. 3, Article 26, 2013
@@ -547,7 +554,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
   - Collected by Benjamin C. Pierce
   - https://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml
 - 10PL: 10 papers that all PhD students in programming languages ought to know, for some value of 10
-  - Northeastern University Programming Research Lab 
+  - Northeastern University Programming Research Lab
   - https://github.com/nuprl/10PL
 - Best of PLDI 2004
   - https://dblp.uni-trier.de/db/conf/pldi/pldi2004best.html
