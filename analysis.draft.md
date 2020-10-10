@@ -188,6 +188,10 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 
 #### LLVM - Verification
 
+- Crux: a tool for improving the assurance of software using symbolic testing, currently supporting C, C++, and Rust
+	- https://crux.galois.com/
+	- Crucible: a library for symbolic simulation of imperative programs 
+	- https://github.com/GaloisInc/crucible
 - LLBMC: The Low-Level Bounded Model Checker
 	- http://llbmc.org/
 	- http://llbmc.org/publications.html
