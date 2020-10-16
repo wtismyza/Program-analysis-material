@@ -48,6 +48,11 @@ See also:
 
 ## Lectures & Courses
 
+- CMPUT 416: Foundations of Program Analysis
+	- University of Alberta; Fall 2020; Karim Ali
+	- https://www.youtube.com/playlist?list=PLZSJMiy_FDQDlyJUgp86UiPBzWivq4b4y
+	- https://github.com/cmput416/outline
+	- https://github.com/cmput416/lectures
 - Foundations of Programming Languages
 	- M-PS (WS 2014/2015): Concepts of Programming Languages
 	- http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/index.en.html
