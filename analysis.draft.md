@@ -345,14 +345,22 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 
 ##### Introduction: LLVM IR
 
+- Kaleidoscope: Implementing a Language with LLVM
+	- https://www.llvm.org/docs/tutorial/MyFirstLanguageFrontend/
 - LLVM IR Tutorial - Phis, GEPs and other things, oh my!
 	- 2019 EuroLLVM Developers’ Meeting; Vince Bridgers, Felipe de Azevedo Piovezan (Intel)
 	- https://www.youtube.com/watch?v=m8G_S5LwlTo
-- LLVM's getelementptr, by example
-	- https://blog.yossarian.net/2020/09/19/LLVMs-getelementptr-by-example
 - Mapping High Level Constructs to LLVM IR
 	- https://github.com/f0rki/mapping-high-level-constructs-to-llvm-ir
 	- https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/
+- Compiling a Functional Language Using C++
+	- https://danilafe.com/blog/00_compiler_intro/
+	- https://dev.danilafe.com/Web-Projects/blog-static/src/branch/master/code/compiler/
+- A Complete Guide to LLVM for Programming Language Creators
+	- https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+	- https://github.com/mukul-rathi/bolt
+- LLVM's getelementptr, by example
+	- https://blog.yossarian.net/2020/09/19/LLVMs-getelementptr-by-example
 
 #### Instrumentation
 
