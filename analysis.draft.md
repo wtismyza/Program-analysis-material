@@ -424,7 +424,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
         - https://github.com/GaloisInc/reopt
 	- Reopt is a tool under development for decompiling and recompiling code. It works by mapping binaries into LLVM byte code, using the LLVM optimization passes to optimize the LLVM, and then combining the newly generated into the binary to generate a new executable.
 	- reopt-vcg: an in-progress Lean4 prototype LLVM/x86 equivalence checker for programs optimized by reopt.
-	        - https://github.com/GaloisInc/reopt-vcg
+		- https://github.com/GaloisInc/reopt-vcg
 - RetDec: a retargetable machine-code decompiler based on LLVM
 	- https://retdec.com/
 	- https://github.com/avast-tl/retdec
