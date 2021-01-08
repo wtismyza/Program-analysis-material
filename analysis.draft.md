@@ -420,6 +420,11 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Rellume is a lifter for x86-64 machine code to LLVM IR with focus on the performance of the lifted code. The generated LLVM IR can be compiled and executed again, for example using LLVM's JIT compiler, ideally having the same (or even better) performance as the original code.
 - Remill: Library for lifting of x86, amd64, and aarch64 machine code to LLVM bitcode
 	- https://github.com/lifting-bits/remill
+- reopt: A tool for analyzing x86-64 binaries. 
+        - https://github.com/GaloisInc/reopt
+	- Reopt is a tool under development for decompiling and recompiling code. It works by mapping binaries into LLVM byte code, using the LLVM optimization passes to optimize the LLVM, and then combining the newly generated into the binary to generate a new executable.
+	- reopt-vcg: an in-progress Lean4 prototype LLVM/x86 equivalence checker for programs optimized by reopt.
+	        - https://github.com/GaloisInc/reopt-vcg
 - RetDec: a retargetable machine-code decompiler based on LLVM
 	- https://retdec.com/
 	- https://github.com/avast-tl/retdec
