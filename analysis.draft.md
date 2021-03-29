@@ -468,6 +468,8 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
 ##### New Pass Manager
 
+- LLVM’s New Pass Manager
+	- https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/
 - New PM: taming a custom pipeline of Falcon JIT
 	- 2018 EuroLLVM Developers’ Meeting - Fedor Sergeev, Azul Systems
 	- https://www.youtube.com/watch?v=6X12D46sRFw
