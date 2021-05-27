@@ -485,6 +485,8 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- Chandler Carruth
 	- https://www.youtube.com/watch?v=rY02LT08-J8
 	- https://llvm.org/devmtg/2014-04/PDFs/Talks/Passes.pdf
+- Porting Burst to the New LLVM Pass Manager
+	- https://www.duskborn.com/posts/llvm-new-pass-manager/
 - Writing LLVM Pass in 2018
 	- 2018; Min-Yih Hsu
 	- Preface - https://medium.com/@mshockwave/writing-llvm-pass-in-2018-preface-6b90fa67ae82
