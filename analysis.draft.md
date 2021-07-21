@@ -53,6 +53,14 @@ See also:
 	- https://www.youtube.com/playlist?list=PLZSJMiy_FDQDlyJUgp86UiPBzWivq4b4y
 	- https://github.com/cmput416/outline
 	- https://github.com/cmput416/lectures
+- DECA: Designing Code Analyses for Large-scale Software Systems
+	- Paderborn University; Eric Bodden
+	- DECA I (WS 2020/2021)
+		- https://www.youtube.com/playlist?list=PLamk8lFsMyPXrUIQm5naAQ08aK2ctv6gE
+		- https://www.hni.uni-paderborn.de/en/sse/teaching/deca
+	- DECA II (SS 2021)
+		- https://www.youtube.com/playlist?list=PLamk8lFsMyPVfDVLbD_ofhTiOoHP3x7lZ
+		- https://www.hni.uni-paderborn.de/en/sse/teaching/deca2
 - Foundations of Programming Languages
 	- M-PS (WS 2014/2015): Concepts of Programming Languages
 	- http://sepl.cs.uni-frankfurt.de/2014-ws/m-ps/index.en.html
