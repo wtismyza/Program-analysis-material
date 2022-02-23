@@ -46,6 +46,14 @@ See also:
 	- https://unsat.cs.washington.edu/projects/serval/
 	- https://blog.acolyer.org/2019/11/13/scaling-symbolic-evaluation-serval/
 
+#### Symbolic Execution: Software
+
+- Maat: an open-source Dynamic Symbolic Execution and Binary Analysis framework
+ 	- Provides various functionalities such as symbolic execution, taint analysis, constraint solving, binary loading, environment simulation, and leverages Ghidra's sleigh library for assembly lifting
+ 	- https://github.com/trailofbits/maat
+ 	- https://maat.re
+ 	- https://blog.trailofbits.com/2022/02/23/maat-symbolic-execution-made-easy/
+
 ## Lectures & Courses
 
 - CMPUT 416: Foundations of Program Analysis
