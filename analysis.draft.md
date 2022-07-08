@@ -570,6 +570,8 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 - Programming Language Implementation Summer School (PLISS)
 	- https://pliss2019.github.io/talks.html
 	- https://www.youtube.com/channel/UCofC5zis7rPvXxWQRDnrTqA/playlists
+- Approachable PL Papers for Undergrads
+	- https://gist.github.com/pdarragh/4f81236109f9575209d5ab7c5c3c3b58
 - SSA book - http://ssabook.gforge.inria.fr/latest/
 - Intermediate Representations in Imperative Compilers: A Survey
 	- ACM Computing Surveys, Vol. 45, No. 3, Article 26, 2013
