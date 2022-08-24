@@ -484,6 +484,10 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 
 ##### New Pass Manager
 
+- How Compilers Work: Introduction to LLVM Passes
+	- C++ on Sea 2022
+	- Andrzej Warzynski
+	- https://www.youtube.com/watch?v=mfTYfzKqi5s
 - LLVM’s New Pass Manager
 	- https://blog.llvm.org/posts/2021-03-26-the-new-pass-manager/
 - New PM: taming a custom pipeline of Falcon JIT
