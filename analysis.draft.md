@@ -572,7 +572,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- 2016-2015: https://www.youtube.com/channel/UCsON_8vogp4nCQFTnfu43kA/playlists
 	- free video lectures available, including the introductory ones based on Practical Foundations for Programming Languages: http://www.cs.cmu.edu/~rwh/pfpl/
 - Programming Language Implementation Summer School (PLISS)
-	- https://pliss2019.github.io/talks.html
+	- https://pliss.org/
 	- https://www.youtube.com/channel/UCofC5zis7rPvXxWQRDnrTqA/playlists
 - Approachable PL Papers for Undergrads
 	- https://gist.github.com/pdarragh/4f81236109f9575209d5ab7c5c3c3b58
