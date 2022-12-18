@@ -567,7 +567,7 @@ Lifting: Disassembly, Decompilation, Recompilation, Reverse Engineering
 	- http://cs.brown.edu/courses/csci1730/2012/
 	- http://cs.brown.edu/courses/cs173/2012/Videos/
 - OPLSS (Oregon Programming Languages Summer School)
-	- https://cs.uoregon.edu/research/summerschool/
+	- https://www.cs.uoregon.edu/research/summerschool/
 	- 2019-2017, 2003: https://www.youtube.com/channel/UCDe6N9R7U-RYWA57wzJQ2SQ/playlists
 	- 2016-2015: https://www.youtube.com/channel/UCsON_8vogp4nCQFTnfu43kA/playlists
 	- free video lectures available, including the introductory ones based on Practical Foundations for Programming Languages: http://www.cs.cmu.edu/~rwh/pfpl/
