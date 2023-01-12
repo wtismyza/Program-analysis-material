@@ -293,6 +293,9 @@ https://drive.google.com/file/d/1j9rfMt14pubi6G9PKK3akddyeet5bf0x/view
 - Getting Started With LLVM: Basics
 	- 2019 LLVM Developers’ Meeting; Jessica Paquette, Florian Hahn
 	- https://www.youtube.com/watch?v=3QQuhL-dSys
+- How to contribute to LLVM
+	- 2022; Nikita Popov
+	- https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm
 - How to Contribute to LLVM
 	- 2019 LLVM Developers’ Meeting; Chris Bieneman, Kit Barton
 	- https://www.youtube.com/watch?v=C5Y977rLqpw
